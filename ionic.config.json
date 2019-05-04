@@ -1,0 +1,7 @@
+{
+  "name": "thermaldetonators",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
